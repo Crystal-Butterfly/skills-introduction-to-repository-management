@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Crystal-Butterfly
+/src/backend/database.py      @Crystal-Butterfly
+/src/backend/routers/auth.py  @Crystal-Butterfly
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Crystal-Butterfly
